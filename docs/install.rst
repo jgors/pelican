@@ -22,7 +22,7 @@ session and create a new virtual environment for Pelican::
     cd ~/virtualenvs/pelican
     source bin/activate
 
-Once the virtual environment has been created and activated, Pelican can be
+Once the virtual environment has been created and activated, Pelican can
 be installed via ``pip install pelican`` as noted above. Alternatively, if
 you have the project source, you can install Pelican using the distutils
 method::
